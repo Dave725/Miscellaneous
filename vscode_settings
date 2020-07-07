@@ -1,0 +1,32 @@
+{
+  "python.autoComplete.addBrackets": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": false,
+  "python.formatting.provider": "autopep8",
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": false,
+  "python.pythonPath": "C:\\Users\\Administrator\\miniconda3\\envs\\python.exe",
+  "bracket-pair-colorizer-2.colors": [
+    "#e0bb14",
+    "#14e0b0",
+    "#b714e0",
+    "#e0148e"
+  ],
+  "bracket-pair-colorizer-2.colorMode": "Consecutive",
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "git.autofetch": true,
+  "workbench.startupEditor": "newUntitledFile"
+}
